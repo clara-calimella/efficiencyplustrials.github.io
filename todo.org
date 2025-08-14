@@ -12,6 +12,7 @@
      - How to use RWD or external data sources to identify additional sites
   + Zhuoxin Yu: What public available data or commercially available database could be leveraged to select sites, investigators, and study committee members? How to utilize these data? 
   + Bochao Jia: may need to evaluate site performance in different perspectives: operational performance (i.e focus on key risk indication and QTLs) and data quality (i.e     identify odds data pattern and anomalies). 
+  + Clara Cali Mella: how to handle different indications, in particular indications without a relevant amount of historical data? 
 
 ** Recruitment monitoring and forecasting: best practices and tools
   + Haoyu Wang: How best to predict enrollment given too slow/too fast
@@ -25,6 +26,7 @@
     actuals, historical projections on sites, expecations of local
     teams, baseline plan
   + Bochao Jia: We may need to differentiate the screening projection, enrollment (randomization projection) and the projection of time for enrollment completion may be       more interested.
+  + Clara Cali Mella: which data sources could be used to predict recruitment? how to define which data is relevant? How to include diversity targets/requirements into modelling?
 
 ** Study design and its impact on operations
   + Haoyu Wang: How to further facilitate/simplify/remove hurdles when
